@@ -1,0 +1,6 @@
+@AcuPay_Capstone_HostAddress = http://localhost:5168
+
+GET {{AcuPay_Capstone_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
